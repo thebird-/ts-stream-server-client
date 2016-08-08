@@ -1,0 +1,5 @@
+*.vcxproj.user
+/msvc10.VC.db
+/.vs
+/Debug
+/Release
