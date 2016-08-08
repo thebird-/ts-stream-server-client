@@ -1,0 +1,11 @@
+# bootstrap generated Windows
+/b2.exe
+/bjam.exe
+/project-config.jam
+/bin.v2
+/bootstrap.log
+/tools/build/src/engine/bin.ntx86
+/tools/build/src/engine/bootstrap
+/libs/config/checks/architecture/bin/
+
+/stage
