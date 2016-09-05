@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
@@ -7,26 +6,18 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "log4cpp", "log4cpp\msvc10\l
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug with Boost|x64 = Debug with Boost|x64
-		Debug with Boost|x86 = Debug with Boost|x86
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
-		Release with Boost|x64 = Release with Boost|x64
-		Release with Boost|x86 = Release with Boost|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Debug with Boost|x64.ActiveCfg = Debug with Boost|Win32
-		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Debug with Boost|x86.ActiveCfg = Debug with Boost|Win32
-		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Debug with Boost|x86.Build.0 = Debug with Boost|Win32
-		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Debug|x64.ActiveCfg = Debug|Win32
+		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Debug|x64.ActiveCfg = Debug|x64
+		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Debug|x64.Build.0 = Debug|x64
 		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Debug|x86.ActiveCfg = Debug|Win32
 		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Debug|x86.Build.0 = Debug|Win32
-		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Release with Boost|x64.ActiveCfg = Release with Boost|Win32
-		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Release with Boost|x86.ActiveCfg = Release with Boost|Win32
-		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Release with Boost|x86.Build.0 = Release with Boost|Win32
-		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Release|x64.ActiveCfg = Release|Win32
+		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Release|x64.ActiveCfg = Release|x64
+		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Release|x64.Build.0 = Release|x64
 		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Release|x86.ActiveCfg = Release|Win32
 		{8C796FDD-5BB9-41D5-8471-DDC897C8C486}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
