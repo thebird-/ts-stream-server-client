@@ -2,6 +2,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TsServerConsole", "TsServerConsole\TsServerConsole.vcxproj", "{81B99E47-F022-45A3-A09A-111DBAB960C9}"
+EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TsServerEngine", "TsServerEngine\TsServerEngine.vcxproj", "{3831F669-CCBA-49B4-A0AB-FBBC58576FE5}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TsClientConsole", "TsClientConsole\TsClientConsole.vcxproj", "{D87FAAE2-A6B5-4504-9ECB-D9694BCACF72}"
@@ -22,6 +24,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B99E47-F022-45A3-A09A-111DBAB960C9}.Debug|x64.ActiveCfg = Debug|x64
+		{81B99E47-F022-45A3-A09A-111DBAB960C9}.Debug|x64.Build.0 = Debug|x64
+		{81B99E47-F022-45A3-A09A-111DBAB960C9}.Debug|x86.ActiveCfg = Debug|Win32
+		{81B99E47-F022-45A3-A09A-111DBAB960C9}.Debug|x86.Build.0 = Debug|Win32
+		{81B99E47-F022-45A3-A09A-111DBAB960C9}.Release|x64.ActiveCfg = Release|x64
+		{81B99E47-F022-45A3-A09A-111DBAB960C9}.Release|x64.Build.0 = Release|x64
+		{81B99E47-F022-45A3-A09A-111DBAB960C9}.Release|x86.ActiveCfg = Release|Win32
+		{81B99E47-F022-45A3-A09A-111DBAB960C9}.Release|x86.Build.0 = Release|Win32
 		{3831F669-CCBA-49B4-A0AB-FBBC58576FE5}.Debug|x64.ActiveCfg = Debug|x64
 		{3831F669-CCBA-49B4-A0AB-FBBC58576FE5}.Debug|x64.Build.0 = Debug|x64
 		{3831F669-CCBA-49B4-A0AB-FBBC58576FE5}.Debug|x86.ActiveCfg = Debug|Win32
